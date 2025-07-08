@@ -1,0 +1,145 @@
+{
+  "id": "wedding-yana-aleksei",
+  "title": "Свадьба Яны и Алексея",
+  "description": "Романтичная свадебная церемония в классическом стиле",
+  "type": "wedding",
+  "folder": "YanaAleksei",
+  "layout": "grid",
+  "columns": "auto",
+  "category": {
+    "name": "Свадебная фотосессия",
+    "url": "../../galleries/wedding.html"
+  },
+  "meta": {
+    "keywords": "свадьба, фотосессия, Яна, Алексей, классика, элегантность, Саранск",
+    "date": "2024-09-20",
+    "location": "Саранск",
+    "photographer": "Алексей Чепин"
+  },
+  "cta": {
+    "title": "Мечтаете о такой же элегантной свадебной фотосессии?",
+    "text": "Давайте создадим незабываемые кадры вашего особенного дня"
+  },
+  "images": [
+    {
+      "filename": "YanaAleksei_00001.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 1",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00002.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 2",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00003.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 3",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00004.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 4",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00005.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 5",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00006.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 6",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00007.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 7",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00008.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 8",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00009.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 9",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00010.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 10",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00011.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 11",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00012.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 12",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00013.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 13",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00014.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 14",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00015.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 15",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00016.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 16",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00017.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 17",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00018.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 18",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00019.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 19",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00020.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 20",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00021.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 21",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00022.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 22",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00023.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 23",
+      "caption": ""
+    },
+    {
+      "filename": "YanaAleksei_00024.jpg",
+      "alt": "Свадьба Яны и Алексея - фото 24",
+      "caption": ""
+    }
+  ]
+}

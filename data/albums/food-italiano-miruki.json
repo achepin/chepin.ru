@@ -1,0 +1,85 @@
+{
+    "id": "food-italiano-miruki",
+    "title": "Композиционное фото",
+    "description": "Художественная фуд-фотография с акцентом на композицию, цвет и эстетику подачи блюд",
+    "type": "food",
+    "folder": "CompositionFood",
+    "layout": "grid",
+    "columns": "auto",
+    "category": {
+        "name": "Фотография еды",
+        "url": "../../galleries/food.html"
+    },
+    "meta": {
+        "keywords": "композиционная фуд-фотография, художественная съемка еды, эстетика, композиция, Саранск",
+        "date": "2024-09-05",
+        "location": "Студия, Саранск",
+        "photographer": "Алексей Чепин"
+    },
+    "cta": {
+        "title": "Нужна художественная фуд-фотография?",
+        "text": "Создам композиционные кадры ваших блюд с акцентом на эстетику и подачу"
+    },
+    "images": [
+        {
+            "filename": "CompositionFood_00001.jpg",
+            "alt": "Композиционное фото - фото 1",
+            "caption": ""
+        },
+        {
+            "filename": "CompositionFood_00002.jpg",
+            "alt": "Композиционное фото - фото 2",
+            "caption": ""
+        },
+        {
+            "filename": "CompositionFood_00003.jpg",
+            "alt": "Композиционное фото - фото 3",
+            "caption": ""
+        },
+        {
+            "filename": "CompositionFood_00004.jpg",
+            "alt": "Композиционное фото - фото 4",
+            "caption": ""
+        },
+        {
+            "filename": "CompositionFood_00005.jpg",
+            "alt": "Композиционное фото - фото 5",
+            "caption": ""
+        },
+        {
+            "filename": "CompositionFood_00006.jpg",
+            "alt": "Композиционное фото - фото 6",
+            "caption": ""
+        },
+        {
+            "filename": "CompositionFood_00007.jpg",
+            "alt": "Композиционное фото - фото 7",
+            "caption": ""
+        },
+        {
+            "filename": "CompositionFood_00008.jpg",
+            "alt": "Композиционное фото - фото 8",
+            "caption": ""
+        },
+        {
+            "filename": "CompositionFood_00009.jpg",
+            "alt": "Композиционное фото - фото 9",
+            "caption": ""
+        },
+        {
+            "filename": "CompositionFood_00010.jpg",
+            "alt": "Композиционное фото - фото 10",
+            "caption": ""
+        },
+        {
+            "filename": "CompositionFood_00011.jpg",
+            "alt": "Композиционное фото - фото 11",
+            "caption": ""
+        },
+        {
+            "filename": "CompositionFood_00012.jpg",
+            "alt": "Композиционное фото - фото 12",
+            "caption": ""
+        }
+    ]
+}

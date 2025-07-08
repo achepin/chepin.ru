@@ -1,0 +1,174 @@
+# SEO оптимизация для сайта фотографа Алексея Чепина
+
+# Включаем модуль перезаписи URL
+RewriteEngine On
+
+# Безопасность - скрываем версию сервера
+ServerTokens Prod
+
+# Установка кодировки по умолчанию
+AddDefaultCharset UTF-8
+
+# Сжатие GZIP для лучшей производительности
+<IfModule mod_deflate.c>
+    # Сжимаем текстовые файлы
+    AddOutputFilterByType DEFLATE text/plain
+    AddOutputFilterByType DEFLATE text/html
+    AddOutputFilterByType DEFLATE text/xml
+    AddOutputFilterByType DEFLATE text/css
+    AddOutputFilterByType DEFLATE application/xml
+    AddOutputFilterByType DEFLATE application/xhtml+xml
+    AddOutputFilterByType DEFLATE application/rss+xml
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/x-javascript
+    AddOutputFilterByType DEFLATE application/json
+    
+    # Сжимаем изображения SVG
+    AddOutputFilterByType DEFLATE image/svg+xml
+    
+    # Исключаем изображения из сжатия
+    SetEnvIfNoCase Request_URI \
+        \.(?:gif|jpe?g|png|ico)$ no-gzip dont-vary
+</IfModule>
+
+# Кэширование статических ресурсов
+<IfModule mod_expires.c>
+    ExpiresActive On
+    
+    # Изображения - кэш на 1 год
+    ExpiresByType image/jpg "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+    ExpiresByType image/x-icon "access plus 1 year"
+    
+    # Шрифты - кэш на 1 год
+    ExpiresByType font/woff "access plus 1 year"
+    ExpiresByType font/woff2 "access plus 1 year"
+    ExpiresByType application/font-woff "access plus 1 year"
+    ExpiresByType application/font-woff2 "access plus 1 year"
+    
+    # CSS и JavaScript - кэш на 1 месяц
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType application/x-javascript "access plus 1 month"
+    
+    # HTML - кэш на 1 день
+    ExpiresByType text/html "access plus 1 day"
+    
+    # Данные JSON - кэш на 1 час
+    ExpiresByType application/json "access plus 1 hour"
+</IfModule>
+
+# Cache-Control заголовки
+<IfModule mod_headers.c>
+    # Изображения
+    <FilesMatch "\.(jpg|jpeg|png|gif|webp|svg|ico)$">
+        Header set Cache-Control "public, max-age=31536000, immutable"
+    </FilesMatch>
+    
+    # Шрифты
+    <FilesMatch "\.(woff|woff2|ttf|eot)$">
+        Header set Cache-Control "public, max-age=31536000, immutable"
+        Header set Access-Control-Allow-Origin "*"
+    </FilesMatch>
+    
+    # CSS и JS
+    <FilesMatch "\.(css|js)$">
+        Header set Cache-Control "public, max-age=2592000"
+    </FilesMatch>
+    
+    # HTML
+    <FilesMatch "\.html$">
+        Header set Cache-Control "public, max-age=86400"
+    </FilesMatch>
+    
+    # Безопасность
+    Header always set X-Content-Type-Options nosniff
+    Header always set X-Frame-Options DENY
+    Header always set X-XSS-Protection "1; mode=block"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    
+    # Удаляем информацию о сервере
+    Header unset Server
+    Header unset X-Powered-By
+</IfModule>
+
+# Редиректы для SEO (без www и с HTTPS)
+<IfModule mod_rewrite.c>
+    # Принудительное использование HTTPS
+    RewriteCond %{HTTPS} off
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+    
+    # Удаляем www из URL
+    RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+    RewriteRule ^(.*)$ https://%1%{REQUEST_URI} [R=301,L]
+    
+    # Удаляем trailing slash для файлов
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} (.+)/$
+    RewriteRule ^(.+)/$ /$1 [R=301,L]
+    
+    # Редирект для старых URL (если они были)
+    # RewriteRule ^old-gallery/(.*)$ /pages/gallery/$1 [R=301,L]
+</IfModule>
+
+# Улучшенная обработка ошибок
+ErrorDocument 404 /404.html
+ErrorDocument 500 /500.html
+
+# Запрет доступа к техническим файлам
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Запрет доступа к конфигурационным файлам
+<FilesMatch "\.(htaccess|htpasswd|ini|log|sh|inc|bak|sql)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Запрет доступа к системным директориям
+RedirectMatch 404 /\.git
+RedirectMatch 404 /node_modules
+RedirectMatch 404 /src/data/
+RedirectMatch 404 /webpack\.config\.
+
+# MIME типы для современных форматов изображений
+<IfModule mod_mime.c>
+    AddType image/webp .webp
+    AddType image/avif .avif
+    
+    # Шрифты
+    AddType font/woff .woff
+    AddType font/woff2 .woff2
+    
+    # Новые типы
+    AddType application/manifest+json .webmanifest
+</IfModule>
+
+# Оптимизация для мобильных устройств
+<IfModule mod_setenvif.c>
+    SetEnvIf Request_URI "\.(gif|jpe?g|png|webp)$" IMAGE
+</IfModule>
+
+# Preload критически важных ресурсов
+<IfModule mod_headers.c>
+    # Preload главного CSS
+    <FilesMatch "^index\.html$">
+        Header add Link "</css/styles.css>; rel=preload; as=style"
+        Header add Link "</fonts/fonts.css>; rel=preload; as=style"
+        Header add Link "</js/app.js>; rel=preload; as=script"
+    </FilesMatch>
+</IfModule>
+
+# Защита от спама и ботов
+<IfModule mod_rewrite.c>
+    # Блокируем подозрительные user agents
+    RewriteCond %{HTTP_USER_AGENT} ^$ [OR]
+    RewriteCond %{HTTP_USER_AGENT} "(binlar|casper|cmsworldmap|comodo|diavol|dotbot|feedfinder|flicky|ia_archiver|jakarta|kmccrew|nutch|planetwork|purebot|pycurl|skygrid|sucker|turnit|vikspider|winhttp|xxxyy|youda|zmeu|zune)" [NC]
+    RewriteRule .* - [F]
+</IfModule>

@@ -1,0 +1,75 @@
+{
+  "id": "reportage-rostselmash",
+  "title": "Ростсельмаш",
+  "description": "Корпоративный репортаж ведущего производителя сельскохозяйственной техники. Съемка производственных процессов и рабочих моментов",
+  "type": "reportage",
+  "folder": "Rostselmash",
+  "layout": "grid",
+  "columns": "auto",
+  "category": {
+    "name": "Репортажная съемка",
+    "url": "../../galleries/reportage.html"
+  },
+  "meta": {
+    "keywords": "репортажная съемка, корпоративный репортаж, Ростсельмаш, производство, сельхозтехника, промышленная фотография, Саранск",
+    "date": "2024-09-10",
+    "location": "Производство Ростсельмаш, Саранск",
+    "photographer": "Алексей Чепин"
+  },
+  "cta": {
+    "title": "Нужен корпоративный репортаж для вашей компании?",
+    "text": "Создам профессиональную фотодокументацию вашего производства или мероприятия"
+  },
+  "images": [
+    {
+      "filename": "Rostselmash_00001.jpg",
+      "alt": "Ростсельмаш - фото 1",
+      "caption": ""
+    },
+    {
+      "filename": "Rostselmash_00002.jpg",
+      "alt": "Ростсельмаш - фото 2",
+      "caption": ""
+    },
+    {
+      "filename": "Rostselmash_00003.jpg",
+      "alt": "Ростсельмаш - фото 3",
+      "caption": ""
+    },
+    {
+      "filename": "Rostselmash_00004.jpg",
+      "alt": "Ростсельмаш - фото 4",
+      "caption": ""
+    },
+    {
+      "filename": "Rostselmash_00005.jpg",
+      "alt": "Ростсельмаш - фото 5",
+      "caption": ""
+    },
+    {
+      "filename": "Rostselmash_00006.jpg",
+      "alt": "Ростсельмаш - фото 6",
+      "caption": ""
+    },
+    {
+      "filename": "Rostselmash_00007.jpg",
+      "alt": "Ростсельмаш - фото 7",
+      "caption": ""
+    },
+    {
+      "filename": "Rostselmash_00008.jpg",
+      "alt": "Ростсельмаш - фото 8",
+      "caption": ""
+    },
+    {
+      "filename": "Rostselmash_00009.jpg",
+      "alt": "Ростсельмаш - фото 9",
+      "caption": ""
+    },
+    {
+      "filename": "Rostselmash_00010.jpg",
+      "alt": "Ростсельмаш - фото 10",
+      "caption": ""
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Страница не найдена | Алексей Чепин - Фотограф</title>
+    <meta name="description" content="Запрашиваемая страница не найдена. Перейдите на главную страницу фотографа Алексея Чепина или выберите нужный раздел портфолио.">
+    <meta name="robots" content="noindex, nofollow">
+    
+    <!-- Canonical -->
+    <link rel="canonical" href="https://alexeychepin.ru/">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="Страница не найдена | Алексей Чепин">
+    <meta property="og:description" content="Запрашиваемая страница не найдена. Вернитесь на главную страницу фотографа.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://alexeychepin.ru/">
+    <meta property="og:image" content="https://alexeychepin.ru/images/about/photographer.jpg">
+    
+    <!-- Стили -->
+    <link rel="stylesheet" href="/fonts/fonts.css">
+    <style>
+        .error-page {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, var(--color-background) 0%, var(--color-background-secondary) 100%);
+            padding: 2rem;
+        }
+        
+        .error-content {
+            text-align: center;
+            max-width: 600px;
+            background: white;
+            padding: 4rem 3rem;
+            border-radius: 20px;
+            box-shadow: var(--shadow-extra-large);
+            border: 1px solid var(--color-border);
+        }
+        
+        .error-code {
+            font-size: 8rem;
+            font-weight: 700;
+            color: var(--color-primary);
+            line-height: 1;
+            margin-bottom: 1rem;
+            font-family: var(--font-secondary);
+        }
+        
+        .error-title {
+            font-size: 2.5rem;
+            font-weight: 600;
+            color: var(--color-text);
+            margin-bottom: 1.5rem;
+            font-family: var(--font-secondary);
+        }
+        
+        .error-description {
+            font-size: 1.2rem;
+            color: var(--color-text-secondary);
+            margin-bottom: 3rem;
+            line-height: 1.6;
+        }
+        
+        .error-actions {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        .error-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 1rem 2rem;
+            background: var(--color-primary);
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: 600;
+            transition: all 0.3s var(--transition-easing);
+        }
+        
+        .error-link:hover {
+            background: var(--color-accent);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-large);
+        }
+        
+        .error-link--secondary {
+            background: transparent;
+            color: var(--color-primary);
+            border: 2px solid var(--color-primary);
+        }
+        
+        .error-link--secondary:hover {
+            background: var(--color-primary);
+            color: white;
+        }
+        
+        @media (max-width: 768px) {
+            .error-content {
+                padding: 3rem 2rem;
+            }
+            
+            .error-code {
+                font-size: 6rem;
+            }
+            
+            .error-title {
+                font-size: 2rem;
+            }
+            
+            .error-actions {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .error-link {
+                width: 100%;
+                max-width: 280px;
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="error-page">
+        <div class="error-content">
+            <div class="error-code">404</div>
+            <h1 class="error-title">Страница не найдена</h1>
+            <p class="error-description">
+                К сожалению, запрашиваемая вами страница не существует или была перемещена. 
+                Возможно, вы перешли по устаревшей ссылке или ошиблись в адресе.
+            </p>
+            
+            <div class="error-actions">
+                <a href="/" class="error-link">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/>
+                    </svg>
+                    На главную
+                </a>
+                
+                <a href="/#portfolio" class="error-link error-link--secondary">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                    </svg>
+                    Портфолио
+                </a>
+            </div>
+        </div>
+    </div>
+    
+    <!-- JSON-LD для страницы ошибки -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Страница не найдена",
+        "description": "Запрашиваемая страница не найдена на сайте фотографа Алексея Чепина",
+        "url": "https://alexeychepin.ru/404.html",
+        "mainEntity": {
+            "@type": "Error",
+            "name": "404 Not Found"
+        },
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": "Алексей Чепин - Фотограф",
+            "url": "https://alexeychepin.ru"
+        }
+    }
+    </script>
+</body>
+</html>

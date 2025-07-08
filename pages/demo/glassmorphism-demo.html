@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Glassmorphism Дизайн-система - Демо</title>
+    <style>
+      body {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+        padding: 2rem;
+      }
+
+      .demo-section {
+        margin-bottom: 3rem;
+      }
+
+      .demo-title {
+        color: white;
+        margin-bottom: 1rem;
+        font-size: 1.5rem;
+        font-weight: 600;
+      }
+
+      .demo-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 2rem;
+        margin-bottom: 2rem;
+      }
+
+      .demo-content {
+        padding: 1.5rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="demo-title">🎨 Glassmorphism Дизайн-система</h1>
+
+      <!-- Кнопки -->
+      <section class="demo-section">
+        <h2 class="demo-title">Современные кнопки</h2>
+        <div class="demo-grid">
+          <div class="glass-card demo-content">
+            <h3>Основные кнопки</h3>
+            <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 1rem">
+              <button class="btn btn--primary">Primary</button>
+              <button class="btn btn--secondary">Secondary</button>
+              <button class="btn btn--accent">Accent</button>
+              <button class="btn btn--ghost">Ghost</button>
+            </div>
+          </div>
+
+          <div class="glass-card demo-content">
+            <h3>Glass кнопки</h3>
+            <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 1rem">
+              <button class="btn btn--glass">Glass</button>
+              <button class="btn btn--glass-accent">Glass Accent</button>
+              <button class="btn btn--gradient">Gradient</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Карточки -->
+      <section class="demo-section">
+        <h2 class="demo-title">Премиальные карточки</h2>
+        <div class="demo-grid">
+          <div class="card elevation-hover-2">
+            <div class="card__header">
+              <h3>Базовая карточка</h3>
+            </div>
+            <div class="card__body">
+              <p>Карточка с glassmorphism эффектами и плавными переходами.</p>
+            </div>
+          </div>
+
+          <div class="card card--glass-accent elevation-hover-3">
+            <div class="card__header">
+              <h3>Акцентная карточка</h3>
+            </div>
+            <div class="card__body">
+              <p>Карточка с акцентным цветом и усиленными тенями.</p>
+            </div>
+          </div>
+
+          <div class="card card--glow elevation-4">
+            <div class="card__header">
+              <h3>Светящаяся карточка</h3>
+            </div>
+            <div class="card__body">
+              <p>Карточка с эффектом свечения при наведении.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Формы -->
+      <section class="demo-section">
+        <h2 class="demo-title">Glassmorphism формы</h2>
+        <div class="demo-grid">
+          <div class="glass-card demo-content">
+            <h3>Обычная форма</h3>
+            <form style="margin-top: 1rem">
+              <div class="form-group">
+                <label class="form-label" for="name">Имя</label>
+                <input type="text" id="name" class="form-input" placeholder="Введите ваше имя" />
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="email">Email</label>
+                <input type="email" id="email" class="form-input" placeholder="example@email.com" />
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="message">Сообщение</label>
+                <textarea id="message" class="form-textarea" rows="4" placeholder="Ваше сообщение..."></textarea>
+              </div>
+              <button type="submit" class="btn btn--primary">Отправить</button>
+            </form>
+          </div>
+
+          <div class="glass-card demo-content">
+            <h3>Floating Labels</h3>
+            <form style="margin-top: 1rem">
+              <div class="form-group form-group--floating">
+                <input type="text" id="float-name" class="form-input" placeholder=" " />
+                <label class="form-label" for="float-name">Имя</label>
+              </div>
+              <div class="form-group form-group--floating">
+                <input type="email" id="float-email" class="form-input" placeholder=" " />
+                <label class="form-label" for="float-email">Email</label>
+              </div>
+              <button type="submit" class="btn btn--glass">Отправить</button>
+            </form>
+          </div>
+        </div>
+      </section>
+
+      <!-- Эффекты глубины -->
+      <section class="demo-section">
+        <h2 class="demo-title">Система глубины (Elevation)</h2>
+        <div class="demo-grid">
+          <div class="glass elevation-1 demo-content rounded-glass">
+            <h4>Elevation 1</h4>
+            <p>Минимальная глубина</p>
+          </div>
+          <div class="glass elevation-2 demo-content rounded-glass">
+            <h4>Elevation 2</h4>
+            <p>Легкая глубина</p>
+          </div>
+          <div class="glass elevation-3 demo-content rounded-glass">
+            <h4>Elevation 3</h4>
+            <p>Средняя глубина</p>
+          </div>
+          <div class="glass elevation-4 demo-content rounded-glass">
+            <h4>Elevation 4</h4>
+            <p>Высокая глубина</p>
+          </div>
+          <div class="glass elevation-5 demo-content rounded-glass">
+            <h4>Elevation 5</h4>
+            <p>Максимальная глубина</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Специальные эффекты -->
+      <section class="demo-section">
+        <h2 class="demo-title">Специальные эффекты</h2>
+        <div class="demo-grid">
+          <div class="glass-card demo-content float-gentle">
+            <h4>🎈 Float эффект</h4>
+            <p>Плавающая анимация</p>
+          </div>
+
+          <div class="glass-card demo-content pulse-soft">
+            <h4>💓 Pulse эффект</h4>
+            <p>Пульсирующая анимация</p>
+          </div>
+
+          <div class="glass-card demo-content magnetic">
+            <h4>🧲 Magnetic эффект</h4>
+            <p>Наведите курсор</p>
+          </div>
+
+          <div class="glass-card demo-content parallax-gentle">
+            <h4>🌟 Parallax эффект</h4>
+            <p>3D трансформация</p>
+          </div>
+
+          <div class="glass-card demo-content gradient-shimmer">
+            <h4>✨ Shimmer эффект</h4>
+            <p>Переливающийся блеск</p>
+          </div>
+
+          <div class="glass-card demo-content accent-glow">
+            <h4>💫 Glow эффект</h4>
+            <p>Свечение при наведении</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Утилиты glassmorphism -->
+      <section class="demo-section">
+        <h2 class="demo-title">Glassmorphism утилиты</h2>
+        <div class="demo-grid">
+          <div class="glass-light demo-content rounded-glass">
+            <h4>Glass Light</h4>
+            <p>Легкое стекло</p>
+          </div>
+
+          <div class="glass-medium demo-content rounded-glass">
+            <h4>Glass Medium</h4>
+            <p>Среднее стекло</p>
+          </div>
+
+          <div class="glass-dark demo-content rounded-glass">
+            <h4>Glass Dark</h4>
+            <p>Темное стекло</p>
+          </div>
+
+          <div class="glass-accent demo-content rounded-glass">
+            <h4>Glass Accent</h4>
+            <p>Акцентное стекло</p>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- Демо модального окна -->
+    <button class="btn btn--primary" onclick="openModal()" style="position: fixed; bottom: 2rem; right: 2rem">
+      Открыть модальное окно
+    </button>
+
+    <div id="demoModal" class="glass-modal">
+      <div class="glass-modal__backdrop" onclick="closeModal()"></div>
+      <div class="glass-modal__container">
+        <div class="glass-modal__header">
+          <h3 class="glass-modal__title">Glassmorphism модальное окно</h3>
+          <button class="glass-modal__close" onclick="closeModal()">×</button>
+        </div>
+        <div class="glass-modal__body">
+          <p>Это демонстрация современного модального окна с glassmorphism эффектами.</p>
+          <p>Обратите внимание на размытый фон и полупрозрачность элементов.</p>
+        </div>
+        <div class="glass-modal__footer">
+          <button class="btn btn--ghost" onclick="closeModal()">Отмена</button>
+          <button class="btn btn--primary">Сохранить</button>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      function openModal() {
+        document.getElementById('demoModal').classList.add('glass-modal--active');
+      }
+
+      function closeModal() {
+        document.getElementById('demoModal').classList.remove('glass-modal--active');
+      }
+
+      // Закрытие модального окна по ESC
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') {
+          closeModal();
+        }
+      });
+    </script>
+  </body>
+</html>

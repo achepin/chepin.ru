@@ -1,0 +1,94 @@
+{
+    "id": "wedding-golf-club",
+    "title": "Свадьба в Golf Club",
+    "description": "Элегантная свадебная церемония в престижном гольф-клубе. Торжественная атмосфера, красивая природа и незабываемые моменты счастья молодоженов.",
+    "type": "wedding",
+    "folder": "GolfClub",
+    "layout": "grid",
+    "columns": "auto",
+    "category": {
+        "name": "Свадебная фотосессия",
+        "url": "../../galleries/wedding.html"
+    },
+    "meta": {
+        "keywords": "свадьба, гольф клуб, свадебная фотосессия, торжество",
+        "date": "2024-09-14",
+        "location": "Golf Club, загородный клуб"
+    },
+    "cta": {
+        "title": "Планируете свадьбу?",
+        "text": "Свяжитесь со мной, чтобы обсудить детали фотосъемки вашего торжества"
+    },
+    "images": [
+        {
+            "filename": "GolfClub_00001.jpg",
+            "alt": "Свадьба в Golf Club - фото 1",
+            "caption": ""
+        },
+        {
+            "filename": "GolfClub_00002.jpg",
+            "alt": "Свадьба в Golf Club - фото 2",
+            "caption": ""
+        },
+        {
+            "filename": "GolfClub_00003.jpg",
+            "alt": "Свадьба в Golf Club - фото 3",
+            "caption": ""
+        },
+        {
+            "filename": "GolfClub_00004.jpg",
+            "alt": "Свадьба в Golf Club - фото 4",
+            "caption": ""
+        },
+        {
+            "filename": "GolfClub_00005.jpg",
+            "alt": "Свадьба в Golf Club - фото 5",
+            "caption": ""
+        },
+        {
+            "filename": "GolfClub_00006.jpg",
+            "alt": "Свадьба в Golf Club - фото 6",
+            "caption": ""
+        },
+        {
+            "filename": "GolfClub_00007.jpg",
+            "alt": "Свадьба в Golf Club - фото 7",
+            "caption": ""
+        },
+        {
+            "filename": "GolfClub_00008.jpg",
+            "alt": "Свадьба в Golf Club - фото 8",
+            "caption": ""
+        },
+        {
+            "filename": "GolfClub_00009.jpg",
+            "alt": "Свадьба в Golf Club - фото 9",
+            "caption": ""
+        },
+        {
+            "filename": "GolfClub_00010.jpg",
+            "alt": "Свадьба в Golf Club - фото 10",
+            "caption": ""
+        },
+        {
+            "filename": "GolfClub_00011.jpg",
+            "alt": "Свадьба в Golf Club - фото 11",
+            "caption": ""
+        },
+        {
+            "filename": "GolfClub_00012.jpg",
+            "alt": "Свадьба в Golf Club - фото 12",
+            "caption": ""
+        },
+        {
+            "filename": "GolfClub_00013.jpg",
+            "alt": "Свадьба в Golf Club - фото 13",
+            "caption": ""
+        },
+        {
+            "filename": "GolfClub_00014.jpg",
+            "alt": "Свадьба в Golf Club - фото 14",
+            "caption": ""
+        }
+    ]
+}

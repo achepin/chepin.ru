@@ -1,0 +1,275 @@
+{
+  "id": "wedding-ilona-aleksandr",
+  "title": "Свадьба Илоны и Александра",
+  "description": "Масштабная свадебная фотосессия, полная эмоций и красивых моментов",
+  "type": "wedding",
+  "folder": "IlonaAleksandr",
+  "layout": "grid",
+  "columns": "auto",
+  "category": {
+    "name": "Свадебная фотосессия",
+    "url": "../../galleries/wedding.html"
+  },
+  "meta": {
+    "keywords": "свадьба, фотосессия, Илона, Александр, большая свадьба, торжество, Саранск",
+    "date": "2024-08-25",
+    "location": "Саранск",
+    "photographer": "Алексей Чепин"
+  },
+  "cta": {
+    "title": "Планируете масштабную свадебную фотосессию?",
+    "text": "Доверьте мне запечатлеть каждый важный момент вашего торжества"
+  },
+  "images": [
+    {
+      "filename": "IlonaAleksandr_00001.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 1",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00002.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 2",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00003.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 3",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00004.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 4",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00005.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 5",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00006.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 6",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00007.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 7",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00008.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 8",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00009.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 9",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00010.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 10",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00011.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 11",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00012.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 12",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00013.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 13",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00014.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 14",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00015.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 15",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00016.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 16",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00017.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 17",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00018.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 18",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00019.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 19",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00020.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 20",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00021.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 21",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00022.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 22",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00023.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 23",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00024.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 24",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00025.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 25",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00026.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 26",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00027.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 27",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00028.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 28",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00029.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 29",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00030.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 30",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00031.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 31",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00032.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 32",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00033.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 33",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00034.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 34",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00035.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 35",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00036.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 36",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00037.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 37",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00038.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 38",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00039.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 39",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00040.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 40",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00041.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 41",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00042.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 42",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00043.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 43",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00044.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 44",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00045.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 45",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00046.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 46",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00047.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 47",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00048.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 48",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00049.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 49",
+      "caption": ""
+    },
+    {
+      "filename": "IlonaAleksandr_00050.jpg",
+      "alt": "Свадьба Илоны и Александра - фото 50",
+      "caption": ""
+    }
+  ]
+}

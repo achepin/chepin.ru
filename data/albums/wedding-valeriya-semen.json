@@ -1,0 +1,165 @@
+{
+  "id": "wedding-valeriya-semen",
+  "title": "Свадьба Валерии и Семена",
+  "description": "Стильная и современная свадебная церемония с элегантными деталями и искренними эмоциями",
+  "type": "wedding",
+  "folder": "ValeriyaSemen",
+  "layout": "grid",
+  "columns": "auto",
+  "category": {
+    "name": "Свадебная фотосессия",
+    "url": "../../galleries/wedding.html"
+  },
+  "meta": {
+    "keywords": "свадьба, фотосессия, Валерия, Семен, стильная свадьба, элегантность, современный стиль, Саранск",
+    "date": "2024-09-14",
+    "location": "Саранск",
+    "photographer": "Алексей Чепин"
+  },
+  "cta": {
+    "title": "Мечтаете о стильной и элегантной свадебной фотосессии?",
+    "text": "Создам современные и элегантные кадры вашего особенного дня с вниманием к деталям"
+  },
+  "images": [
+    {
+      "filename": "ValeriyaSemen_00001.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 1",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00002.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 2",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00003.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 3",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00004.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 4",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00005.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 5",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00006.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 6",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00007.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 7",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00008.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 8",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00009.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 9",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00010.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 10",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00011.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 11",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00012.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 12",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00013.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 13",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00014.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 14",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00015.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 15",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00016.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 16",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00017.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 17",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00018.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 18",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00019.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 19",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00020.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 20",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00021.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 21",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00022.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 22",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00023.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 23",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00024.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 24",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00025.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 25",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00026.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 26",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00027.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 27",
+      "caption": ""
+    },
+    {
+      "filename": "ValeriyaSemen_00028.jpg",
+      "alt": "Свадьба Валерии и Семена - фото 28",
+      "caption": ""
+    }
+  ]
+}

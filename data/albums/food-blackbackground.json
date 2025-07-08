@@ -1,0 +1,295 @@
+{
+  "id": "food-blackbackground",
+  "title": "Черный фон",
+  "description": "Драматичная фуд-фотография на черном фоне с выразительными контрастами и глубокими тенями",
+  "type": "food",
+  "folder": "Blackbackground",
+  "layout": "grid",
+  "columns": "auto",
+  "category": {
+    "name": "Фотография еды",
+    "url": "../../galleries/food.html"
+  },
+  "meta": {
+    "keywords": "фуд-фотография, черный фон, драматичное освещение, контраст, еда, продукты, студийная съемка, Саранск",
+    "date": "2024-09-12",
+    "location": "Студия, Саранск",
+    "photographer": "Алексей Чепин"
+  },
+  "cta": {
+    "title": "Хотите создать драматичные кадры вашей еды?",
+    "text": "Создам выразительные и контрастные фотографии ваших блюд на черном фоне"
+  },
+  "images": [
+    {
+      "filename": "Blackbackground_00001.jpeg",
+      "alt": "Черный фон - фото 1",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00002.jpeg",
+      "alt": "Черный фон - фото 2",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00003.jpeg",
+      "alt": "Черный фон - фото 3",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00004.jpeg",
+      "alt": "Черный фон - фото 4",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00005.jpeg",
+      "alt": "Черный фон - фото 5",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00006.jpeg",
+      "alt": "Черный фон - фото 6",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00007.jpeg",
+      "alt": "Черный фон - фото 7",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00008.jpeg",
+      "alt": "Черный фон - фото 8",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00009.jpeg",
+      "alt": "Черный фон - фото 9",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00010.jpeg",
+      "alt": "Черный фон - фото 10",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00011.jpeg",
+      "alt": "Черный фон - фото 11",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00012.jpeg",
+      "alt": "Черный фон - фото 12",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00013.jpeg",
+      "alt": "Черный фон - фото 13",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00014.jpeg",
+      "alt": "Черный фон - фото 14",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00015.jpeg",
+      "alt": "Черный фон - фото 15",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00016.jpeg",
+      "alt": "Черный фон - фото 16",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00017.jpeg",
+      "alt": "Черный фон - фото 17",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00018.jpeg",
+      "alt": "Черный фон - фото 18",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00019.jpeg",
+      "alt": "Черный фон - фото 19",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00020.jpeg",
+      "alt": "Черный фон - фото 20",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00021.jpeg",
+      "alt": "Черный фон - фото 21",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00022.jpeg",
+      "alt": "Черный фон - фото 22",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00023.jpeg",
+      "alt": "Черный фон - фото 23",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00024.jpeg",
+      "alt": "Черный фон - фото 24",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00025.jpeg",
+      "alt": "Черный фон - фото 25",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00026.jpeg",
+      "alt": "Черный фон - фото 26",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00027.jpeg",
+      "alt": "Черный фон - фото 27",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00028.jpeg",
+      "alt": "Черный фон - фото 28",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00029.jpeg",
+      "alt": "Черный фон - фото 29",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00030.jpeg",
+      "alt": "Черный фон - фото 30",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00031.jpeg",
+      "alt": "Черный фон - фото 31",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00032.jpeg",
+      "alt": "Черный фон - фото 32",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00033.jpeg",
+      "alt": "Черный фон - фото 33",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00034.jpeg",
+      "alt": "Черный фон - фото 34",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00035.jpeg",
+      "alt": "Черный фон - фото 35",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00036.jpeg",
+      "alt": "Черный фон - фото 36",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00037.jpeg",
+      "alt": "Черный фон - фото 37",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00038.jpeg",
+      "alt": "Черный фон - фото 38",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00039.jpeg",
+      "alt": "Черный фон - фото 39",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00040.jpeg",
+      "alt": "Черный фон - фото 40",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00041.jpeg",
+      "alt": "Черный фон - фото 41",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00042.jpeg",
+      "alt": "Черный фон - фото 42",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00043.jpeg",
+      "alt": "Черный фон - фото 43",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00044.jpeg",
+      "alt": "Черный фон - фото 44",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00045.jpeg",
+      "alt": "Черный фон - фото 45",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00046.jpeg",
+      "alt": "Черный фон - фото 46",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00047.jpeg",
+      "alt": "Черный фон - фото 47",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00048.jpeg",
+      "alt": "Черный фон - фото 48",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00049.jpeg",
+      "alt": "Черный фон - фото 49",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00050.jpeg",
+      "alt": "Черный фон - фото 50",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00051.jpeg",
+      "alt": "Черный фон - фото 51",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00052.jpeg",
+      "alt": "Черный фон - фото 52",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00053.jpeg",
+      "alt": "Черный фон - фото 53",
+      "caption": ""
+    },
+    {
+      "filename": "Blackbackground_00054.jpeg",
+      "alt": "Черный фон - фото 54",
+      "caption": ""
+    }
+  ]
+}

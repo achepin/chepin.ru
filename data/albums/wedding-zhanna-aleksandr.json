@@ -1,0 +1,115 @@
+{
+  "id": "wedding-zhanna-aleksandr",
+  "title": "Свадьба Жанны и Александра",
+  "description": "Элегантная и стильная свадебная церемония с особой атмосферой торжественности и любви",
+  "type": "wedding",
+  "folder": "ZhannaAleksandr",
+  "layout": "grid",
+  "columns": "auto",
+  "category": {
+    "name": "Свадебная фотосессия",
+    "url": "../../galleries/wedding.html"
+  },
+  "meta": {
+    "keywords": "свадьба, фотосессия, Жанна, Александр, элегантная свадьба, стильная церемония, торжественность, Саранск",
+    "date": "2024-05-18",
+    "location": "Саранск",
+    "photographer": "Алексей Чепин"
+  },
+  "cta": {
+    "title": "Хотите такую же элегантную и стильную свадебную фотосессию?",
+    "text": "Запечатлю всю торжественность и особую атмосферу вашего незабываемого дня"
+  },
+  "images": [
+    {
+      "filename": "ZhannaAleksandr_00001.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 1",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00002.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 2",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00003.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 3",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00004.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 4",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00005.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 5",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00006.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 6",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00007.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 7",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00008.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 8",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00009.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 9",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00010.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 10",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00011.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 11",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00012.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 12",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00013.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 13",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00014.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 14",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00015.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 15",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00016.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 16",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00017.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 17",
+      "caption": ""
+    },
+    {
+      "filename": "ZhannaAleksandr_00018.jpg",
+      "alt": "Свадьба Жанны и Александра - фото 18",
+      "caption": ""
+    }
+  ]
+}

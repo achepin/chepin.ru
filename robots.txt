@@ -1,0 +1,41 @@
+User-agent: *
+Allow: /
+
+# Приоритетные разделы для индексации
+Allow: /index.html
+Allow: /pages/about/
+Allow: /pages/gallery/
+Allow: /pages/galleries/
+Allow: /pages/flashback/
+Allow: /pages/contact/
+
+# Запрет индексации технических файлов
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /parts/
+Disallow: /templates/
+Disallow: /*.json$
+Disallow: /*.mjs$
+Disallow: /*.cjs$
+Disallow: /webpack.config.cjs
+Disallow: /package.json
+
+# Разрешение для изображений (важно для фотографа)
+Allow: /images/
+
+# Ссылка на карту сайта
+Sitemap: https://alexeychepin.ru/sitemap.xml
+
+# Директивы для основных поисковых роботов
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Yandex
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2

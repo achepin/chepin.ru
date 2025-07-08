@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Главная страница -->
+  <url>
+    <loc>https://alexeychepin.ru/</loc>
+    <lastmod>2025-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://alexeychepin.ru/images/about/photographer.jpg</image:loc>
+      <image:caption>Алексей Чепин - профессиональный фотограф в Саранске</image:caption>
+    </image:image>
+  </url>
+
+  <!-- О фотографе -->
+  <url>
+    <loc>https://alexeychepin.ru/pages/about/about.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://alexeychepin.ru/images/about/photographer.jpg</image:loc>
+      <image:caption>Фотограф Алексей Чепин</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Фотошкола Flashback -->
+  <url>
+    <loc>https://alexeychepin.ru/pages/flashback/flashback.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://alexeychepin.ru/images/flashback/flashback-hero.jpg</image:loc>
+      <image:caption>Фотошкола Flashback - курсы фотографии в Саранске</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Контакты -->
+  <url>
+    <loc>https://alexeychepin.ru/pages/contact/contact.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Категории галерей -->
+  <url>
+    <loc>https://alexeychepin.ru/pages/galleries/wedding.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://alexeychepin.ru/images/portfolio/wedding/preview.jpg</image:loc>
+      <image:caption>Свадебная фотография в Саранске</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://alexeychepin.ru/pages/galleries/studio.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://alexeychepin.ru/images/portfolio/studio/preview.jpg</image:loc>
+      <image:caption>Студийная фотосъемка в Саранске</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://alexeychepin.ru/pages/galleries/food.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://alexeychepin.ru/images/portfolio/food/preview.jpg</image:loc>
+      <image:caption>Фуд-фотография в Саранске</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://alexeychepin.ru/pages/galleries/reportage.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://alexeychepin.ru/images/portfolio/reportage/preview.jpg</image:loc>
+      <image:caption>Репортажная фотосъемка в Саранске</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Конкретные галереи (топ-приоритетные) -->
+  <url>
+    <loc>https://alexeychepin.ru/pages/gallery/weddings/wedding-alina-andrej.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://alexeychepin.ru/images/portfolio/wedding/AlinaAndrej/photo_00001.jpg</image:loc>
+      <image:caption>Свадьба Алины и Андрея - фотограф Алексей Чепин</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://alexeychepin.ru/pages/gallery/weddings/wedding-yana-aleksei.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://alexeychepin.ru/images/portfolio/wedding/YanaAleksei/photo_00001.jpg</image:loc>
+      <image:caption>Свадьба Яны и Алексея - фотограф Алексей Чепин</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://alexeychepin.ru/pages/gallery/studio/studio-individual.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://alexeychepin.ru/images/portfolio/studio/Individual/photo_00001.jpg</image:loc>
+      <image:caption>Индивидуальная студийная фотосессия - фотограф Алексей Чепин</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://alexeychepin.ru/pages/gallery/food/food-italiano-miruki.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://alexeychepin.ru/images/portfolio/food/ItalianoMiruki/photo_00001.jpg</image:loc>
+      <image:caption>Фуд-фотография ресторана Italiano Miruki - фотограф Алексей Чепин</image:caption>
+    </image:image>
+  </url>
+
+</urlset>

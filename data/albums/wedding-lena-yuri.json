@@ -1,0 +1,110 @@
+{
+  "id": "wedding-lena-yuri",
+  "title": "Свадьба Лены и Юрия",
+  "description": "Яркая и жизнерадостная свадебная история, полная смеха, радости и незабываемых моментов",
+  "type": "wedding",
+  "folder": "LenaYuri",
+  "layout": "grid",
+  "columns": "auto",
+  "category": {
+    "name": "Свадебная фотосессия",
+    "url": "../../galleries/wedding.html"
+  },
+  "meta": {
+    "keywords": "свадьба, фотосессия, Лена, Юрий, радость, веселье, яркая свадьба, Саранск",
+    "date": "2024-08-10",
+    "location": "Саранск",
+    "photographer": "Алексей Чепин"
+  },
+  "cta": {
+    "title": "Хотите такую же яркую и веселую свадебную фотосессию?",
+    "text": "Запечатлю все моменты радости и счастья вашего особенного дня"
+  },
+  "images": [
+    {
+      "filename": "LenaYuri_00001.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 1",
+      "caption": ""
+    },
+    {
+      "filename": "LenaYuri_00002.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 2",
+      "caption": ""
+    },
+    {
+      "filename": "LenaYuri_00003.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 3",
+      "caption": ""
+    },
+    {
+      "filename": "LenaYuri_00004.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 4",
+      "caption": ""
+    },
+    {
+      "filename": "LenaYuri_00005.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 5",
+      "caption": ""
+    },
+    {
+      "filename": "LenaYuri_00006.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 6",
+      "caption": ""
+    },
+    {
+      "filename": "LenaYuri_00007.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 7",
+      "caption": ""
+    },
+    {
+      "filename": "LenaYuri_00008.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 8",
+      "caption": ""
+    },
+    {
+      "filename": "LenaYuri_00009.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 9",
+      "caption": ""
+    },
+    {
+      "filename": "LenaYuri_00010.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 10",
+      "caption": ""
+    },
+    {
+      "filename": "LenaYuri_00011.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 11",
+      "caption": ""
+    },
+    {
+      "filename": "LenaYuri_00012.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 12",
+      "caption": ""
+    },
+    {
+      "filename": "LenaYuri_00013.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 13",
+      "caption": ""
+    },
+    {
+      "filename": "LenaYuri_00014.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 14",
+      "caption": ""
+    },
+    {
+      "filename": "LenaYuri_00015.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 15",
+      "caption": ""
+    },
+    {
+      "filename": "LenaYuri_00016.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 16",
+      "caption": ""
+    },
+    {
+      "filename": "LenaYuri_00017.jpg",
+      "alt": "Свадьба Лены и Юрия - фото 17",
+      "caption": ""
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "wedding-andrej-evgeniya",
+  "title": "Свадьба Андрея и Евгении",
+  "description": "Трогательная и душевная свадебная история с классическими традициями и теплой атмосферой",
+  "type": "wedding",
+  "folder": "AndrejEvgeniya",
+  "layout": "grid",
+  "columns": "auto",
+  "category": {
+    "name": "Свадебная фотосессия",
+    "url": "../../galleries/wedding.html"
+  },
+  "meta": {
+    "keywords": "свадьба, фотосессия, Андрей, Евгения, традиционная свадьба, душевная церемония, классика, Саранск",
+    "date": "2024-07-27",
+    "location": "Саранск",
+    "photographer": "Алексей Чепин"
+  },
+  "cta": {
+    "title": "Хотите такую же душевную и традиционную свадебную фотосессию?",
+    "text": "Запечатлю все важные моменты и традиции вашего особенного дня с теплотой и вниманием"
+  },
+  "images": [
+    {
+      "filename": "AndrejEvgeniya_00001.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 1",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00002.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 2",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00003.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 3",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00004.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 4",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00005.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 5",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00006.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 6",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00007.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 7",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00008.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 8",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00009.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 9",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00010.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 10",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00011.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 11",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00012.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 12",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00013.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 13",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00014.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 14",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00015.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 15",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00016.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 16",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00017.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 17",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00018.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 18",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00019.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 19",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00020.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 20",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00021.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 21",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00022.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 22",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00023.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 23",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00024.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 24",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00025.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 25",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00026.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 26",
+      "caption": ""
+    },
+    {
+      "filename": "AndrejEvgeniya_00027.jpg",
+      "alt": "Свадьба Андрея и Евгении - фото 27",
+      "caption": ""
+    }
+  ]
+}

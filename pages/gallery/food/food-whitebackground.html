@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Food Whitebackground | Фотогалерея | Алексей Чепин - Фотограф</title>
+    <meta name="description" content="Food Whitebackground. Профессиональная фотография от Алексея Чепина в Саранске. Посмотрите фотографии и запишитесь на съёмку." />
+    <meta name="keywords" content="фотогалерея, food whitebackground, фотограф Саранск, Алексей Чепин, профессиональная фотография" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Подключение шрифтов -->
+    <link rel="stylesheet" href="../../../fonts/fonts.css" />
+
+    <!-- Подключение стилей -->
+    <link rel="stylesheet" href="../../../css/styles.css" />
+      </head>
+  <body>
+    <!-- Хедер -->
+    <header class="header">
+      <div class="header__container">
+        <div class="header__logo">
+          <a href="../../../index.html" class="header__logo-link">
+            <span class="header__logo-text">ALEXEY CHEPIN</span>
+          </a>
+        </div>
+
+        <nav class="header__nav nav--underline">
+          <ul class="nav__list">
+            <li class="nav__item">
+              <a href="../../../index.html" class="nav__link">Главная</a>
+            </li>
+            <li class="nav__item">
+              <a href="../../../index.html#portfolio" class="nav__link nav__link--active">Портфолио</a>
+            </li>
+            <li class="nav__item">
+              <a href="../../about/about.html" class="nav__link">О фотографе</a>
+            </li>
+            <li class="nav__item">
+              <a href="../../flashback/flashback.html" class="nav__link">Фотошкола</a>
+            </li>
+            <li class="nav__item">
+              <a href="../../contact/contact.html" class="nav__link">Контакты</a>
+            </li>
+          </ul>
+        </nav>
+
+        <div class="header__actions">
+          <a href="../../contact/contact.html" class="btn btn--primary">Записаться</a>
+        </div>
+
+        <button class="header__burger" aria-label="Открыть меню">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Основной контент -->
+    <main class="main">
+      <!-- Хлебные крошки -->
+      <section class="breadcrumbs">
+        <div class="container">
+          <nav class="breadcrumbs__nav">
+            <a href="../../../index.html" class="breadcrumbs__link">Главная</a>
+            <span class="breadcrumbs__separator">→</span>
+            <a href="../../../index.html#portfolio" class="breadcrumbs__link">Портфолио</a>
+            <span class="breadcrumbs__separator">→</span>
+            <a href="../../galleries/food.html" class="breadcrumbs__link">Фотография еды</a>
+            <span class="breadcrumbs__separator">→</span>
+            <span class="breadcrumbs__current">Фуд фотография на белом фоне</span>
+          </nav>
+        </div>
+      </section>
+
+      <!-- Заголовок галереи -->
+      <section class="gallery-hero">
+        <div class="container">
+          <div class="gallery-hero__content">
+            <h1 class="gallery-hero__title animate-fade-in-up">Фуд фотография на белом фоне</h1>
+            <p class="gallery-hero__subtitle animate-fade-in-up delay-100">Минималистичная фуд фотография в светлых тонах</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Галерея фотографий -->
+      <section class="photo-gallery">
+        <div class="container">
+          <div class="photo-gallery__grid" data-gallery data-album-id="food-whitebackground">
+            <!-- Фотографии будут загружены через UniversalGallery -->
+          </div>
+        </div>
+      </section>
+
+      <!-- CTA секция -->
+      <section class="cta-section">
+        <div class="container">
+          <div class="cta-content">
+            <h2 class="cta-content__title">Понравились фотографии?</h2>
+            <p class="cta-content__text">Свяжитесь со мной, чтобы обсудить детали вашей фотосессии</p>
+            <div class="cta-content__actions">
+              <a href="../../contact/contact.html" class="btn btn--primary btn--large"> Записаться на съемку </a>
+              <a href="../../../index.html#portfolio" class="btn btn--outline btn--large"> Другие работы </a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Футер -->
+    <div id="footer-placeholder"></div>
+
+    <!-- Подключение скриптов -->
+
+
+    <script src="../../../js/mobile-menu.js"></script>
+
+
+    <script src="../../../js/app.js" type="module"></script>
+
+
+
+    <!-- SEO Manager -->
+
+
+    <script src="../../../js/modules/SEOManager.js"></script>
+
+    <!-- Универсальная система галерей -->
+    <script src="../../../js/modules/UniversalGalleryNoModule.js"></script>
+
+    <!-- Загрузка футера -->
+    <script>
+      document.addEventListener('DOMContentLoaded', async function () {
+        try {
+          const footerResponse = await fetch('../../../parts/_footer.html');
+          const footerHTML = await footerResponse.text();
+          document.getElementById('footer-placeholder').innerHTML = footerHTML;
+        } catch (error) {
+          console.error('Ошибка загрузки футера:', error);
+        }
+      });
+    </script>
+  </body>
+</html>

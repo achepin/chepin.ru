@@ -1,0 +1,75 @@
+{
+  "id": "food-whitebackground",
+  "title": "Белый фон",
+  "description": "Минималистичная фуд-фотография на белом фоне с чистыми линиями и акцентом на деталях",
+  "type": "food",
+  "folder": "Whitebackground",
+  "layout": "grid",
+  "columns": "auto",
+  "category": {
+    "name": "Фотография еды",
+    "url": "../../galleries/food.html"
+  },
+  "meta": {
+    "keywords": "фуд-фотография, белый фон, минимализм, еда, продукты, студийная съемка, Саранск",
+    "date": "2024-09-10",
+    "location": "Студия, Саранск",
+    "photographer": "Алексей Чепин"
+  },
+  "cta": {
+    "title": "Нужна стильная фуд-фотография для вашего проекта?",
+    "text": "Создам минималистичные и элегантные кадры ваших блюд на белом фоне"
+  },
+  "images": [
+    {
+      "filename": "Whitebackground_00001.jpeg",
+      "alt": "Белый фон - фото 1",
+      "caption": ""
+    },
+    {
+      "filename": "Whitebackground_00002.jpeg",
+      "alt": "Белый фон - фото 2",
+      "caption": ""
+    },
+    {
+      "filename": "Whitebackground_00003.jpeg",
+      "alt": "Белый фон - фото 3",
+      "caption": ""
+    },
+    {
+      "filename": "Whitebackground_00004.jpeg",
+      "alt": "Белый фон - фото 4",
+      "caption": ""
+    },
+    {
+      "filename": "Whitebackground_00005.jpeg",
+      "alt": "Белый фон - фото 5",
+      "caption": ""
+    },
+    {
+      "filename": "Whitebackground_00006.jpeg",
+      "alt": "Белый фон - фото 6",
+      "caption": ""
+    },
+    {
+      "filename": "Whitebackground_00007.jpeg",
+      "alt": "Белый фон - фото 7",
+      "caption": ""
+    },
+    {
+      "filename": "Whitebackground_00008.jpeg",
+      "alt": "Белый фон - фото 8",
+      "caption": ""
+    },
+    {
+      "filename": "Whitebackground_00009.jpeg",
+      "alt": "Белый фон - фото 9",
+      "caption": ""
+    },
+    {
+      "filename": "Whitebackground_00010.jpeg",
+      "alt": "Белый фон - фото 10",
+      "caption": ""
+    }
+  ]
+}
